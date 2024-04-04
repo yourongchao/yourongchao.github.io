@@ -105,4 +105,9 @@ deploy:
   type: git
   repo: https://yourongchao.github.io/youyeye_Hexo_blog
   # example, https://github.com/hexojs/hexojs.github.io
+  repository: https://github.com/LucifielHack/yourongchao.github.io  
   branch: gh-pages
+
+#toc: false  #关闭
+toc:
+  list_number: false  # 决定导航使用的标签， true 为 ol， false 为 ul。
